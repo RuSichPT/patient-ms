@@ -1,4 +1,4 @@
-package com.github.rusichpt.patient.ms.entities;
+package com.github.rusichpt.patient.ms.entity;
 
 import java.sql.Date;
 import java.util.Objects;

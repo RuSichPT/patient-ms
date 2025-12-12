@@ -1,7 +1,7 @@
-package com.github.rusichpt.patient.ms.controllers;
+package com.github.rusichpt.patient.ms.controller;
 
-import com.github.rusichpt.patient.ms.entities.Patient;
-import com.github.rusichpt.patient.ms.services.PatientServiceImpl;
+import com.github.rusichpt.patient.ms.entity.Patient;
+import com.github.rusichpt.patient.ms.service.PatientServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

@@ -1,6 +1,6 @@
-package com.github.rusichpt.patient.ms.mappers;
+package com.github.rusichpt.patient.ms.mapper;
 
-import com.github.rusichpt.patient.ms.entities.Patient;
+import com.github.rusichpt.patient.ms.entity.Patient;
 import org.apache.ibatis.annotations.*;
 import org.springframework.stereotype.Repository;
 

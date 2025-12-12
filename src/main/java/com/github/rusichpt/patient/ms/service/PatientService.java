@@ -1,6 +1,6 @@
-package com.github.rusichpt.patient.ms.services;
+package com.github.rusichpt.patient.ms.service;
 
-import com.github.rusichpt.patient.ms.entities.Patient;
+import com.github.rusichpt.patient.ms.entity.Patient;
 
 import java.sql.Date;
 
