@@ -1,8 +1,7 @@
-package com.github.RuSichPT.TestPatientMicroservice.controllers;
+package com.github.rusichpt.patient.ms.controllers;
 
-import com.github.RuSichPT.TestPatientMicroservice.entities.Patient;
-import com.github.RuSichPT.TestPatientMicroservice.services.PatientServiceImpl;
-import org.apache.ibatis.annotations.Param;
+import com.github.rusichpt.patient.ms.entities.Patient;
+import com.github.rusichpt.patient.ms.services.PatientServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

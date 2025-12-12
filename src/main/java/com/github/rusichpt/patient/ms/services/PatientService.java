@@ -1,6 +1,6 @@
-package com.github.RuSichPT.TestPatientMicroservice.services;
+package com.github.rusichpt.patient.ms.services;
 
-import com.github.RuSichPT.TestPatientMicroservice.entities.Patient;
+import com.github.rusichpt.patient.ms.entities.Patient;
 
 import java.sql.Date;
 

@@ -8,10 +8,10 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.github.RuSichPT</groupId>
-	<artifactId>TestPatientMicroservice</artifactId>
+	<groupId>com.github.rusichpt</groupId>
+	<artifactId>patient-ms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TestPatientMicroservice</name>
+	<name>patient-ms</name>
 	<description>RESTful app</description>
 	<properties>
 		<java.version>17</java.version>

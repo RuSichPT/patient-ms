@@ -1,10 +1,10 @@
-package com.github.RuSichPT.TestPatientMicroservice;
+package com.github.rusichpt.patient.ms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TestPatientMicroserviceApplicationTests {
+class PatientMsApplicationTests {
 
 	@Test
 	void contextLoads() {

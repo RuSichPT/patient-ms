@@ -1,7 +1,7 @@
-package com.github.RuSichPT.TestPatientMicroservice.services;
+package com.github.rusichpt.patient.ms.services;
 
-import com.github.RuSichPT.TestPatientMicroservice.entities.Patient;
-import com.github.RuSichPT.TestPatientMicroservice.mappers.PatientMapper;
+import com.github.rusichpt.patient.ms.entities.Patient;
+import com.github.rusichpt.patient.ms.mappers.PatientMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
