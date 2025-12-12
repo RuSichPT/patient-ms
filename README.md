@@ -1,4 +1,4 @@
-# Test_Patient_Microservice
+# patient-ms
 Practice java (inobitec)
 
 Задание №3. Синхронное взаимодействие сервисов
